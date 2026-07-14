@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Erdős Problems — Open → Solved</title>
+  <id>urn:erdos-open-to-solved-feed</id>
+  <updated>2026-07-13T11:59:15+00:00</updated>
+  <link href="https://www.erdosproblems.com/" />
+  <link rel="self" href="feed.xml" />
+  <author><name>erdos-solved-feed (community data)</name></author>
+  <subtitle>Notifies when an Erdős problem changes from open to solved (proved / disproved / solved), based on the teorth/erdosproblems community database.</subtitle>
+</feed>
