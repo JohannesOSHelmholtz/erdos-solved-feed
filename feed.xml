@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Erdős Problems — Open → Solved</title>
   <id>urn:erdos-open-to-solved-feed</id>
-  <updated>2026-07-14T19:12:28+00:00</updated>
+  <updated>2026-07-15T13:27:04+00:00</updated>
   <link href="https://www.erdosproblems.com/" />
   <link rel="self" href="feed.xml" />
   <author><name>erdos-solved-feed (community data)</name></author>
   <subtitle>Notifies when an Erdős problem changes from open to solved (proved / disproved / solved), based on the teorth/erdosproblems community database.</subtitle>
+  <entry>
+    <title>Problem 750 solved (proved (Lean))</title>
+    <id>tag:erdos-solved:problem-750:proved:2025-08-31</id>
+    <link href="https://www.erdosproblems.com/750" />
+    <updated>2026-07-15T13:27:04+00:00</updated>
+    <summary>Erdős Problem #750 changed status from “open” to “proved (Lean)”. (database last_update: 2025-08-31)</summary>
+  </entry>
   <entry>
     <title>Problem 793 solved (proved (Lean))</title>
     <id>tag:erdos-solved:problem-793:proved:2025-08-31</id>
