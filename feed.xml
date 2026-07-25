@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Erdős Problems — Open → Solved</title>
   <id>urn:erdos-open-to-solved-feed</id>
-  <updated>2026-07-23T02:21:57+00:00</updated>
+  <updated>2026-07-25T19:02:06+00:00</updated>
   <link href="https://www.erdosproblems.com/" />
   <link rel="self" href="feed.xml" />
   <author><name>erdos-solved-feed (community data)</name></author>
   <subtitle>Notifies when an Erdős problem changes from open to solved (proved / disproved / solved), based on the teorth/erdosproblems community database.</subtitle>
+  <entry>
+    <title>Problem 920 solved (solved)</title>
+    <id>tag:erdos-solved:problem-920:solved:2025-08-31</id>
+    <link href="https://www.erdosproblems.com/920" />
+    <updated>2026-07-25T19:02:06+00:00</updated>
+    <summary>Erdős Problem #920 changed status from “open” to “solved”. (database last_update: 2025-08-31)</summary>
+  </entry>
   <entry>
     <title>Problem 469 solved (proved (Lean))</title>
     <id>tag:erdos-solved:problem-469:proved:2026-07-21</id>
