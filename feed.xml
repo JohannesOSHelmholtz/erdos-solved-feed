@@ -2,11 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Erdős Problems — Open → Solved</title>
   <id>urn:erdos-open-to-solved-feed</id>
-  <updated>2026-07-25T19:02:06+00:00</updated>
+  <updated>2026-08-31T12:31:29+00:00</updated>
   <link href="https://www.erdosproblems.com/" />
   <link rel="self" href="feed.xml" />
   <author><name>erdos-solved-feed (community data)</name></author>
   <subtitle>Notifies when an Erdős problem changes from open to solved (proved / disproved / solved), based on the teorth/erdosproblems community database.</subtitle>
+  <entry>
+    <title>Problem 106 solved (disproved (Lean))</title>
+    <id>tag:erdos-solved:problem-106:disproved:2025-08-31</id>
+    <link href="https://www.erdosproblems.com/106" />
+    <updated>2026-08-31T12:31:29+00:00</updated>
+    <summary>Erdős Problem #106 changed status from “falsifiable” to “disproved (Lean)”. (database last_update: 2025-08-31)</summary>
+  </entry>
+  <entry>
+    <title>Problem 146 solved (disproved (Lean))</title>
+    <id>tag:erdos-solved:problem-146:disproved:2026-08-02</id>
+    <link href="https://www.erdosproblems.com/146" />
+    <updated>2026-08-31T12:31:29+00:00</updated>
+    <summary>Erdős Problem #146 changed status from “open (Lean)” to “disproved (Lean)”. (database last_update: 2026-08-02)</summary>
+  </entry>
+  <entry>
+    <title>Problem 180 solved (disproved (Lean))</title>
+    <id>tag:erdos-solved:problem-180:disproved:2026-08-02</id>
+    <link href="https://www.erdosproblems.com/180" />
+    <updated>2026-08-31T12:31:29+00:00</updated>
+    <summary>Erdős Problem #180 changed status from “open (Lean)” to “disproved (Lean)”. (database last_update: 2026-08-02)</summary>
+  </entry>
+  <entry>
+    <title>Problem 183 solved (solved (Lean))</title>
+    <id>tag:erdos-solved:problem-183:solved:2026-08-01</id>
+    <link href="https://www.erdosproblems.com/183" />
+    <updated>2026-08-31T12:31:29+00:00</updated>
+    <summary>Erdős Problem #183 changed status from “open (Lean)” to “solved (Lean)”. (database last_update: 2026-08-01)</summary>
+  </entry>
+  <entry>
+    <title>Problem 575 solved (disproved)</title>
+    <id>tag:erdos-solved:problem-575:disproved:2025-08-31</id>
+    <link href="https://www.erdosproblems.com/575" />
+    <updated>2026-08-31T12:31:29+00:00</updated>
+    <summary>Erdős Problem #575 changed status from “open” to “disproved”. (database last_update: 2025-08-31)</summary>
+  </entry>
   <entry>
     <title>Problem 920 solved (solved)</title>
     <id>tag:erdos-solved:problem-920:solved:2025-08-31</id>
