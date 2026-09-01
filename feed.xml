@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Erdős Problems — Open → Solved</title>
   <id>urn:erdos-open-to-solved-feed</id>
-  <updated>2026-08-31T12:31:29+00:00</updated>
+  <updated>2026-09-01T15:58:26+00:00</updated>
   <link href="https://www.erdosproblems.com/" />
   <link rel="self" href="feed.xml" />
   <author><name>erdos-solved-feed (community data)</name></author>
   <subtitle>Notifies when an Erdős problem changes from open to solved (proved / disproved / solved), based on the teorth/erdosproblems community database.</subtitle>
+  <entry>
+    <title>Problem 346 solved (solved)</title>
+    <id>tag:erdos-solved:problem-346:solved:2025-08-31</id>
+    <link href="https://www.erdosproblems.com/346" />
+    <updated>2026-09-01T15:58:26+00:00</updated>
+    <summary>Erdős Problem #346 changed status from “open” to “solved”. (database last_update: 2025-08-31)</summary>
+  </entry>
+  <entry>
+    <title>Problem 421 solved (solved)</title>
+    <id>tag:erdos-solved:problem-421:solved:2025-08-31</id>
+    <link href="https://www.erdosproblems.com/421" />
+    <updated>2026-09-01T15:58:26+00:00</updated>
+    <summary>Erdős Problem #421 changed status from “open” to “solved”. (database last_update: 2025-08-31)</summary>
+  </entry>
+  <entry>
+    <title>Problem 730 solved (solved)</title>
+    <id>tag:erdos-solved:problem-730:solved:2025-08-31</id>
+    <link href="https://www.erdosproblems.com/730" />
+    <updated>2026-09-01T15:58:26+00:00</updated>
+    <summary>Erdős Problem #730 changed status from “open” to “solved”. (database last_update: 2025-08-31)</summary>
+  </entry>
+  <entry>
+    <title>Problem 1005 solved (solved)</title>
+    <id>tag:erdos-solved:problem-1005:solved:2025-09-09</id>
+    <link href="https://www.erdosproblems.com/1005" />
+    <updated>2026-09-01T15:58:26+00:00</updated>
+    <summary>Erdős Problem #1005 changed status from “open” to “solved”. (database last_update: 2025-09-09)</summary>
+  </entry>
   <entry>
     <title>Problem 106 solved (disproved (Lean))</title>
     <id>tag:erdos-solved:problem-106:disproved:2025-08-31</id>
