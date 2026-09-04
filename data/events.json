@@ -1,5 +1,13 @@
 [
   {
+    "number": "193",
+    "from": "open",
+    "to": "disproved",
+    "event_date": "2025-08-31",
+    "last_update": "2025-08-31",
+    "detected_at": "2026-09-04T20:11:16+00:00"
+  },
+  {
     "number": "346",
     "from": "open",
     "to": "solved",
