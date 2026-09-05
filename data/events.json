@@ -1,5 +1,69 @@
 [
   {
+    "number": "1",
+    "from": "disproved (formalized)",
+    "to": "disproved (Lean)",
+    "event_date": "2026-09-03",
+    "last_update": "2026-09-03",
+    "detected_at": "2026-09-05T09:52:39+00:00"
+  },
+  {
+    "number": "74",
+    "from": "disproved (formalized)",
+    "to": "disproved (Lean)",
+    "event_date": "2026-09-03",
+    "last_update": "2026-09-03",
+    "detected_at": "2026-09-05T09:52:39+00:00"
+  },
+  {
+    "number": "126",
+    "from": "proved (formalized)",
+    "to": "proved (Lean)",
+    "event_date": "2026-09-03",
+    "last_update": "2026-09-03",
+    "detected_at": "2026-09-05T09:52:39+00:00"
+  },
+  {
+    "number": "477",
+    "from": "open",
+    "to": "solved",
+    "event_date": "2025-08-31",
+    "last_update": "2025-08-31",
+    "detected_at": "2026-09-05T09:52:39+00:00"
+  },
+  {
+    "number": "548",
+    "from": "proved (formalized)",
+    "to": "proved (Lean)",
+    "event_date": "2026-09-03",
+    "last_update": "2026-09-03",
+    "detected_at": "2026-09-05T09:52:39+00:00"
+  },
+  {
+    "number": "557",
+    "from": "proved (formalized)",
+    "to": "proved (Lean)",
+    "event_date": "2026-09-03",
+    "last_update": "2026-09-03",
+    "detected_at": "2026-09-05T09:52:39+00:00"
+  },
+  {
+    "number": "571",
+    "from": "proved (formalized)",
+    "to": "proved (Lean)",
+    "event_date": "2026-09-03",
+    "last_update": "2026-09-03",
+    "detected_at": "2026-09-05T09:52:39+00:00"
+  },
+  {
+    "number": "625",
+    "from": "open",
+    "to": "solved",
+    "event_date": "2025-08-31",
+    "last_update": "2025-08-31",
+    "detected_at": "2026-09-05T09:52:39+00:00"
+  },
+  {
     "number": "193",
     "from": "open",
     "to": "disproved",

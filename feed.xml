@@ -2,11 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Erdős Problems — Open → Solved</title>
   <id>urn:erdos-open-to-solved-feed</id>
-  <updated>2026-09-04T20:11:16+00:00</updated>
+  <updated>2026-09-05T09:52:39+00:00</updated>
   <link href="https://www.erdosproblems.com/" />
   <link rel="self" href="feed.xml" />
   <author><name>erdos-solved-feed (community data)</name></author>
   <subtitle>Notifies when an Erdős problem changes from open to solved (proved / disproved / solved), based on the teorth/erdosproblems community database.</subtitle>
+  <entry>
+    <title>Problem 1 solved (disproved (Lean))</title>
+    <id>tag:erdos-solved:problem-1:disproved:2026-09-03</id>
+    <link href="https://www.erdosproblems.com/1" />
+    <updated>2026-09-05T09:52:39+00:00</updated>
+    <summary>Erdős Problem #1 changed status from “disproved (formalized)” to “disproved (Lean)”. (database last_update: 2026-09-03)</summary>
+  </entry>
+  <entry>
+    <title>Problem 74 solved (disproved (Lean))</title>
+    <id>tag:erdos-solved:problem-74:disproved:2026-09-03</id>
+    <link href="https://www.erdosproblems.com/74" />
+    <updated>2026-09-05T09:52:39+00:00</updated>
+    <summary>Erdős Problem #74 changed status from “disproved (formalized)” to “disproved (Lean)”. (database last_update: 2026-09-03)</summary>
+  </entry>
+  <entry>
+    <title>Problem 126 solved (proved (Lean))</title>
+    <id>tag:erdos-solved:problem-126:proved:2026-09-03</id>
+    <link href="https://www.erdosproblems.com/126" />
+    <updated>2026-09-05T09:52:39+00:00</updated>
+    <summary>Erdős Problem #126 changed status from “proved (formalized)” to “proved (Lean)”. (database last_update: 2026-09-03)</summary>
+  </entry>
+  <entry>
+    <title>Problem 477 solved (solved)</title>
+    <id>tag:erdos-solved:problem-477:solved:2025-08-31</id>
+    <link href="https://www.erdosproblems.com/477" />
+    <updated>2026-09-05T09:52:39+00:00</updated>
+    <summary>Erdős Problem #477 changed status from “open” to “solved”. (database last_update: 2025-08-31)</summary>
+  </entry>
+  <entry>
+    <title>Problem 548 solved (proved (Lean))</title>
+    <id>tag:erdos-solved:problem-548:proved:2026-09-03</id>
+    <link href="https://www.erdosproblems.com/548" />
+    <updated>2026-09-05T09:52:39+00:00</updated>
+    <summary>Erdős Problem #548 changed status from “proved (formalized)” to “proved (Lean)”. (database last_update: 2026-09-03)</summary>
+  </entry>
+  <entry>
+    <title>Problem 557 solved (proved (Lean))</title>
+    <id>tag:erdos-solved:problem-557:proved:2026-09-03</id>
+    <link href="https://www.erdosproblems.com/557" />
+    <updated>2026-09-05T09:52:39+00:00</updated>
+    <summary>Erdős Problem #557 changed status from “proved (formalized)” to “proved (Lean)”. (database last_update: 2026-09-03)</summary>
+  </entry>
+  <entry>
+    <title>Problem 571 solved (proved (Lean))</title>
+    <id>tag:erdos-solved:problem-571:proved:2026-09-03</id>
+    <link href="https://www.erdosproblems.com/571" />
+    <updated>2026-09-05T09:52:39+00:00</updated>
+    <summary>Erdős Problem #571 changed status from “proved (formalized)” to “proved (Lean)”. (database last_update: 2026-09-03)</summary>
+  </entry>
+  <entry>
+    <title>Problem 625 solved (solved)</title>
+    <id>tag:erdos-solved:problem-625:solved:2025-08-31</id>
+    <link href="https://www.erdosproblems.com/625" />
+    <updated>2026-09-05T09:52:39+00:00</updated>
+    <summary>Erdős Problem #625 changed status from “open” to “solved”. (database last_update: 2025-08-31)</summary>
+  </entry>
   <entry>
     <title>Problem 193 solved (disproved)</title>
     <id>tag:erdos-solved:problem-193:disproved:2025-08-31</id>
