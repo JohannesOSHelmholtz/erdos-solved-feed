@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Erdős Problems — Open → Solved</title>
   <id>urn:erdos-open-to-solved-feed</id>
-  <updated>2026-09-05T09:52:39+00:00</updated>
+  <updated>2026-09-18T20:18:35+00:00</updated>
   <link href="https://www.erdosproblems.com/" />
   <link rel="self" href="feed.xml" />
   <author><name>erdos-solved-feed (community data)</name></author>
   <subtitle>Notifies when an Erdős problem changes from open to solved (proved / disproved / solved), based on the teorth/erdosproblems community database.</subtitle>
+  <entry>
+    <title>Problem 547 solved (proved)</title>
+    <id>tag:erdos-solved:problem-547:proved:2026-09-03</id>
+    <link href="https://www.erdosproblems.com/547" />
+    <updated>2026-09-18T20:18:35+00:00</updated>
+    <summary>Erdős Problem #547 changed status from “decidable” to “proved”. (database last_update: 2026-09-03)</summary>
+  </entry>
   <entry>
     <title>Problem 1 solved (disproved (Lean))</title>
     <id>tag:erdos-solved:problem-1:disproved:2026-09-03</id>
